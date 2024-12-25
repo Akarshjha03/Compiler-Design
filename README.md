@@ -28,7 +28,7 @@ Welcome to the **Compiler Design** repository! 🚀 This repository is a hands-o
 
 ## 🛠 Tools and Technologies  
 
-- **Programming Language**: [Your Language Here, e.g., Python, C++] 🐍/🔧  
+- **Programming Language**: [C - Language] 🔧  
 - **Compiler Tools**: [Flex, Yacc, LLVM, etc.] 🛠  
 
 ---
