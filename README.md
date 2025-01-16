@@ -6,13 +6,13 @@ Welcome to the Compiler Design Repository! This repository is a collection of pr
 
 ## Table of Contents
 
-1.✨ Lexical Analyzer
-2.🔢 Count Digits, Vowels, and Symbols
-3.🔒 Username and Password Validation
-4.📘 Predictive Parsing LL(1)
-5.📚 Recursive Descent Parsing
-6.➗ Operator Precedence Parsing
-7.📈 LALR Parsing
-8.🔍 Study of LEX and FLEX
-9.📊 LEX Programs - Count Features
-10.⚙️ LEX Programs - Various Tasks
+1. ✨ Lexical Analyzer
+2. 🔢 Count Digits, Vowels, and Symbols
+3. 🔒 Username and Password Validation
+4. 📘 Predictive Parsing LL(1)
+5. 📚 Recursive Descent Parsing
+6. ➗ Operator Precedence Parsing
+7. 📈 LALR Parsing
+8. 🔍 Study of LEX and FLEX
+9. 📊 LEX Programs - Count Features
+10. ⚙️ LEX Programs - Various Tasks
