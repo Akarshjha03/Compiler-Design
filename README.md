@@ -146,3 +146,15 @@ Welcome to the Compiler Design Repository! This repository is a collection of pr
 3. Follow the usage instructions provided in each folder.
 
 ---
+
+## Contribution Guidelines
+We welcome contributions to improve this repository! If you'd like to contribute:
+
+- Fork the repository.
+- Create a new branch for your changes.
+- Submit a pull request with a clear description of your changes.
+
+## License
+This repository is licensed under the MIT License.
+
+
