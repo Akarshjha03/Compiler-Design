@@ -136,3 +136,13 @@ Welcome to the Compiler Design Repository! This repository is a collection of pr
   - Output: Results based on tasks.
 
 ---
+
+## How to Use This Repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/compiler-design.git
+   ```
+2. Navigate to the desired section to explore the code and examples.
+3. Follow the usage instructions provided in each folder.
+
+---
